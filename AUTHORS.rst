@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Rudi (New contributor)
+* other smart people 
 
 
