@@ -1,7 +1,1 @@
-Authors
--------
-
-* Rudi (New contributor)
-* other smart people 
-
-
+.. include:: ../AUTHORS.rst
